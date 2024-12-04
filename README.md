@@ -1,4 +1,14 @@
-# AngularApp
+# Easy Task
+
+Easy Task is a basic web application built with Angular. It serves as a learning project to understand and practice the fundamental concepts of Angular, including components, data binding, and event handling.
+
+## Features
+
+- **User Management**: Select users to view their tasks.
+- **Task Management**: Add, view, and complete tasks for selected users.
+- **Responsive Design**: The application is designed to be responsive and works well on various screen sizes.
+
+## Version
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.11.
 
