@@ -27,7 +27,7 @@ export class NewTaskComponent {
       title: this.enteredTitle,
       summary: this.enteredSummary,
       date: this.enteredDate
-    }, 'this.userId');
+    }, this.userId);
     this.close.emit();
   }
 }
